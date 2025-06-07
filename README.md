@@ -30,7 +30,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
-### My Github Start
+#### My Github Start
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihMuzaqi&show_icons=true&theme=gruvbox)
 
 ![Coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXoyamQwZmZ1eWl1bmtid2E3M3FuN3RoNzF5NXZnNjZjNXRidGxjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
+
+#### Play Game With Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FatihMuzaqi/FatihMuzaqi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FatihMuzaqi/FatihMuzaqi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FatihMuzaqi/FatihMuzaqi/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/FatihMuzaqi/FatihMuzaqi/output/snake.svg" alt="Snake animation" />
+
+###
