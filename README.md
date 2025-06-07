@@ -36,9 +36,10 @@ Here are some ideas to get you started:
 ![Coding](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXoyamQwZmZ1eWl1bmtid2E3M3FuN3RoNzF5NXZnNjZjNXRidGxjOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 
-#### Play Game With Me
+<h2 align="left">Play Game With Me</h2>
 
 ###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FatihMuzaqi/FatihMuzaqi/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FatihMuzaqi/FatihMuzaqi/output/pacman-contribution-graph.svg">
