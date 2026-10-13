@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Dicoding Indonesia
+- 🔭 I am currently studying at Dicoding Indonesia.
 - 🌱 I’m currently learning Express Framework
 
 #### Skills
